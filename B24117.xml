@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hertf. ss. At the general quarter-session of the publick peace of the county of Hertford, holden at Hertford, for the county aforesaid, on Monday next after the feast of the translation of St. Thomas the Martyr: that is to say, the fourteenth and sixteenth dayes of Iuly, in the yeer of our Lord one thousand six hundred fifty and six..</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24117</idno><idno type="EEBO-CITATION">99888904</idno>
+  <idno type="VID">193908</idno>
+  <idno type="EEBO-PROQUEST">2240903526</idno>
+  
+            <idno type="STC">Wing H1602B</idno>
+            <idno type="STC">Interim Tract Supplement Guide 190.g.13[106]</idno>
+            <idno type="STC">ESTC R232493</idno>
+            <idno type="PROQUEST">ocm99888904</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888904e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24117)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 193908)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C29:2[106])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Hertf. ss. At the general quarter-session of the publick peace of the county of Hertford, holden at Hertford, for the county aforesaid, on Monday next after the feast of the translation of St. Thomas the Martyr: that is to say, the fourteenth and sixteenth dayes of Iuly, in the yeer of our Lord one thousand six hundred fifty and six..</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1656]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Initial, type-ornament head-piece.</note>
+                  <note>Regarding licensing taverns, inns, and alehouses.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Alcoholic beverages --  Law and legislation --  England --  Hertford --  Early works to 1800.</term>
+               <term type="topical_term">Broadsides --  England --  London --  Early works to 1800.</term>
+               <term type="topical_term">Sunday legislation --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Hertford (England) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="notice">
+            <pb facs="tcp:193908:1"/>
+            <head>
+               <note place="margin">Hertf. ss.</note> At the general Quarter-Session of the publick Peace of the County of <hi>Hertford,</hi> holden at <hi>Hertford,</hi> for the County aforesaid, on Monday next after the Feast of the translation of St. <hi>Thomas</hi> the Martyr: that is to say, the four<g ref="char:EOLhyphen"/>teenth and sixteenth dayes of <hi>Iuly,</hi> in the yeer of our Lord one thousand six hundred fifty and six.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Orasmuch as his Highness the Lord Protector of the Commonwealth of <hi>England, Scotland,</hi> &amp; <hi>Ireland,</hi> and the Dominions thereto belonging, hath taken special notice of the mischiefs and great disorders which daily happen and are committed in Taverns, Innes and Alehouses, which are extreamly multi<g ref="char:EOLhyphen"/>plied in this Nation; &amp; of the great prophaness that is spread, and the many outrageous practises and wickednesses that are from time to time committed in such houses; &amp; that very many of the Keepers of those houses, as well as the Resorters to such houses, are lewd, evil disposed, and debauched per<g ref="char:EOLhyphen"/>sons, and disaffected to the Present Government: which misdoings do much tend to the dishonour of Almighty God, and are a scandal to Religion, and are to the disturbance of the publick peace and tranquillity of this Nation; notwithstanding the many good Laws and Statutes made for the prevention and punishment of such evils: and his Highness having required the special care and diligen<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of the Justices of the publick Peace, and of other the Officers and Ministers of this County, who are therein concer<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed: Therefore, for the more due and exact execution of the Laws and Statutes made against the said enormities and offences, and for the better prevention of them for the future, it is thought fit, and accordingly ordered by the Bench this present Session, That no person whatsoever living in any house within this County, shall from henceforth be licensed or allowed to keep any Alehouse or Victualling<g ref="char:EOLhyphen"/>house, unless his house be in the common road or openstreet, and not standing alone; and in such places, no greater number then necessity requires: and that such persons so to be licensed, be of honest life and conversation, and of good ability, having conveniency for entertainment of Travellers and Passengers, well-affected to the Present Go<g ref="char:EOLhyphen"/>vernment, and of persons who have not adhered to the late King and his Party: also, That no Bayliff, or his under-Officer, Follower, or Servant, shall be licensed or allowed to keep any Alehouse or Victualling-house in this County: and, That every Alehouse-Keeper, who shall be licensed, shall have a Sign over his Door, and none else to be licensed hereafter. And that this necessary work may be the more effectually and fully performed, &amp; that the great evil, or the neglect thereof, may be clearly discovered at whose door it shall happen to lie, his Highness Justices of the Peace of this County, are in their respective Divisions to take special <gap reason="illegible" resp="#oxf" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for the effectual suppressing of all such Alehouse-Keepers as are, or at any time hereafter shall be convicted of the prophanation of the Lords Day, by receiving into his, her or their house or houses, any Company, or of swearing, drunkenness, suffering disorders, tippling, gaming, or playing at Tables, Billiard-table, Shovelboard, Cards, Dice, Nine-pins, Pidgeon-holes, Trunks, or of keeping of Bowling-Alley, or Bowling-Green, or of any of them, or of any other Games: and that all such Victuallers or Alehousekeepers as shall with their privities or consents suffer any Person or Traveler that shall lodge and continue in his house until the Lord's Day in the morning, to depart from thence, (otherwise, then to divine Worship or Sermon, to some place neer adjacent) until Munday morning, without the allowance or approbation of some Justice of Peace of this County. And it is further ordered, That no Person who shall be suppressed for any of the Causes aforesaid, be admitted or a<g ref="char:EOLhyphen"/>gain allowed to keep Alehouse or Victualling-house within the said County for the space of three yeers, according to the form of the Statute in that behalf made and provided for disorderly Alehouses: and also, If a greater number of Ale<g ref="char:EOLhyphen"/>houses have been licensed in this County, then are of absolute necessity, or whose houses are not convenient, or the per<g ref="char:EOLhyphen"/>sons not so qualified as is above expressed, that their Licen<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es be called in, &amp; they suppressed; and that no other person shall be hereafter licensed to sell Ale or Beer within this County, but by the consent &amp; approbation of the greater num<g ref="char:EOLhyphen"/>ber of the Justices of the said County in open Sessions of Peace, or at their several meetings within their respective Di<g ref="char:EOLhyphen"/>visions; &amp; that none but able sureties shall hereafter be taken for performance of the conditions of their recognizances; that is to say, such as are in Lands, or Goods, or both, worth one hundred pounds at the least: and that no Victualler, Brewer, or Alehouse-keeper be taken as surety or sureties one for another: also, That no Bay liff or his under-Officer, Follower or servant, be taken as sureties for any such Victualler so to be licensed as aforesaid. And it is further ordered, That the Iustices of Peace of this County, shall take care that all and every the Church-wardens, Constables, and other Officers, within their respective Divisions, that shall be herein concerned, shall be diligent in the execution of all War<g ref="char:EOLhyphen"/>rants to them to be directed, for the levying of Forfeitures and penalties against Vintners, Taverners, Inne-keepers, Ale<g ref="char:EOLhyphen"/>house-keepers, Victuallers and Tiplers, or against any of them: and that the said forfeitures and penalties be duly im<g ref="char:EOLhyphen"/>ployed and accounted for: &amp; that such as shall be found def<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ti<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e therein, shall be punished according to Law: and that they the said Officers shall make return to the general Quarter-<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>essions from time to time, of the Names of all such Brewers as have or hereafter shall lay in Beer or Ale into any house or houses of any unlicensed Alehouse or Tipling-house.</p>
+            <closer>
+               <signed>By the Court.</signed>
+            </closer>
+            <closer>
+               <signed>Examined by <hi>Edward Hide,</hi> Clerk of the Peace.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
